@@ -1,0 +1,28 @@
+@media screen and (max-width: 1425px) {
+  .secImg2 video {
+    width: 256px;
+    top: 27px;
+    right: 90px;
+  }
+}
+@media screen and (max-width: 1379px) {
+  .secImg2 video {
+    width: 245px;
+    top: 27px;
+    right: 90px;
+  }
+}
+@media screen and (max-width: 1300px) {
+  .secImg2 video {
+    width: 237px;
+    top: 32px;
+    right: 77px;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .secImg2 video {
+    right: 77px;
+    width: 216px;
+    top: 31px;
+  }
+}
